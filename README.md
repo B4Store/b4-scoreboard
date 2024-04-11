@@ -6,8 +6,7 @@ b4-Scoreboard Np inspired 4.0
 
 ## Preview's
 ![Preview Screenshot](https://i.imgur.com/5J0xIrd.png)
-## Preview's
-![Preview Screenshot](https://imgur.com/kj1r6Rr)
+![Preview Screenshot](https://i.imgur.com/kj1r6Rr.png)
 
 # Installation
 
