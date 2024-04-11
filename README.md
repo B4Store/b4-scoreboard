@@ -2,7 +2,7 @@
 
 b4-Scoreboard Np inspired 4.0
 
-* Fivem scoreboard with a new look and two different Ui (user interface)
+* Fivem scoreboard with a new look
 
 ## Preview's
 ![Preview Screenshot](https://i.imgur.com/5J0xIrd.png)
